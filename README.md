@@ -16,4 +16,4 @@
 
 **Проект**
 
-[Ссылка на готовый проект](https://innaromanova.github.io/mesto/)
+[Ссылка на готовый проект](https://innaromanova.github.io/Test-Message/)
