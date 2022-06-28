@@ -1,0 +1,6 @@
+.footer {
+    width: 570px;
+    height: 125px;
+    background: rgba(11, 17, 69, 0.04);
+    display: flex;
+}

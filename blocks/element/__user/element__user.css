@@ -1,0 +1,11 @@
+.element__user {
+    width: 42px;
+    height: 19px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #5E5E5E;
+    margin: 0 0 6px 0;
+    padding: 0;
+}

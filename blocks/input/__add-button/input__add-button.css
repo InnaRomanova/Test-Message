@@ -1,0 +1,12 @@
+.input__add-button {
+    background-image: url(../../../images/Vector.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    cursor: pointer;
+    width: 23px;
+    height: 23px;
+    object-fit: cover;
+    margin: 15px;
+    border-style: hidden;
+}

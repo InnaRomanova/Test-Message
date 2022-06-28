@@ -1,0 +1,10 @@
+.element {
+    display: flex;
+    position: relative;
+    margin: 0 209px 23px 30px;
+    flex-direction: column;
+}
+
+.element:first-of-type {
+    padding-top: 25px;
+}

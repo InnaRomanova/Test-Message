@@ -1,0 +1,15 @@
+.content {
+    height: 471px;
+    overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    background: rgba(35, 44, 94, 0.12);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(35, 44, 94, 0.12);
+    border-radius: 5px;
+}

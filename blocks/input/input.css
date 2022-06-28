@@ -1,0 +1,9 @@
+.input {
+    width: 506px;
+    height: 54px;
+    background: #FFFFFF;
+    border: 1px solid rgba(35, 44, 94, 0.21);
+    border-radius: 8px;
+    margin: 34px 32px 37px;
+    display: flex;
+}
